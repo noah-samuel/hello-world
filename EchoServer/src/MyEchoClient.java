@@ -15,7 +15,7 @@ public class MyEchoClient {
 
 	    String version = new String( "MyEchoClient - Version 1.1.0" );
 	
-        int myPort = 10080;
+        int myPort = 1080;
         String serverHostname = new String("127.0.0.1");
 
         if (args.length != 2) {
